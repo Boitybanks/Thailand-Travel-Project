@@ -71,4 +71,9 @@ header a {
   header h3 {
     font-size: 12px;
   }
-}
+  
+.img-responsive {
+    width: 100%;
+    display: block;
+} 
+} 
